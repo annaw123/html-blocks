@@ -1,0 +1,30 @@
+.super-mania {
+    background-color: aqua;
+    color: fuchsia;
+}
+
+.normal-mania {
+    background-color: chocolate;
+    color: whitesmoke;
+}
+
+.mania {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 80px;
+    width: 300px;
+    height: 300px;
+}
+
+.my-container {
+    display: inline-block;
+    background-color: yellow;
+}
+
+.my-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
